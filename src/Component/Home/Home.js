@@ -1,9 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import useReviewList from '../../hooks/useReviewList';
 import Dashboard from '../Dashboard/Dashboard';
 import './Home.css';
 
 const Home = () => {
+    const [review, setReview] = useReviewList();
     return (
         <div>
             <div className='container'>
@@ -22,7 +24,23 @@ const Home = () => {
             </div>
 
             <div>
-                <h1>Customers Reviews(3)</h1>
+                <h1 className='mb-5'>Customers Reviews(3)</h1>
+                {
+                    review.slice(0, 3).map(revieww => <div className='card shadow p-3 m-2  bg-body rounded item'>
+
+                        <div className='card-body'>
+                            <div className='text-center'><img src={revieww.image} alt=''></img>
+                            </div>
+                            <h5 className='card-title'>{revieww.name}</h5>
+                            <p className='card-text text-success'>{revieww.comment}</p>
+                            <p className='card-text text-success'> Rating: {revieww.rating}/5</p>
+
+                        </div>
+                    </div>
+                    )
+
+                }
+
 
             </div>
         </div>
