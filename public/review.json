@@ -1,0 +1,44 @@
+[
+    {
+        "id": "01",
+        "name": "Sania Mirza",
+        "rating": 4,
+        "comment": "I was looking for an onion shampoo for hair growth and shine. I bought Mamaearth’s Red Onion Shampoo in India and it has worked very well. Enriched with Plant Keratin and Soy Amino Acids, it reduces hair fall and makes my hair stronger, softer, and smoother. I would recommend it to everyone.",
+        "image": "images/review_img01.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Komol",
+        "rating": 4.5,
+        "comment": "This Onion Hair Growth Shampoo is best for people experiencing hair loss. I have tried it and can advise that it works well for all hair types. I always a blogger for beauty tips. Last week, they recommend onion shampoo by their post review of Mamaearth onion shampoo. The best thing is that it contains wheat amino acids and soy amino acids that make my hair less prone to breakage by increasing its strength.",
+        "image": "images/review_img03.jpg "
+    },
+    {
+        "id": "03",
+        "name": "R Sethupathi",
+        "rating": 5,
+        "comment": "We all know the benefits of onion shampoo, like it helps increase hair’s tensile strength and improves manageability. Using a red onion hair shampoo that contains plant keratin (like the one offered by Mamaearth) is even better because it increases the hair's natural shine and strength. Mamas onion shampoo is also enriched with wheat and soy amino acids that reduce hair porosity and offer deep moisturization",
+        "image": "images/review_img03.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Ramesh Chandra",
+        "rating": 4,
+        "comment": "Mamaearth Onion Shampoo ingredients are some of the best you would ever find in India. This toxin-free shampoo features plant keratin, wheat amino acids, soy amino acids that reduce the hair's porosity and strengthen the roots with regular use. ",
+        "image": "images/review_img03.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Jasmine ",
+        "rating": 4.5,
+        "comment": "Trying this red onion oil and shampoo for the first time...My freinds suggested this MAmaearth's products...bcz they have got so much benefits of onion shampoo and oil also....My bestie told me that her hairfall problem has been solved....So m trusting her and gonna use it now..Let's hope for best!",
+        "image": "images/review_img01.jpg"
+    },
+    {
+        "id": "06",
+        "name": "kanika",
+        "rating": 5,
+        "comment": "I've been using this red onion black seed oil shampoo for the past couple months and I'd like to give my honest mamaearth onion shampoo review so that others can get a better idea of the product...according to me, this is the best onion hair shampoo in India.....bcz I've tried other shampoos but this is quite magically different...smells good...",
+        "image": "images/review_img01.jpg"
+    }
+]
