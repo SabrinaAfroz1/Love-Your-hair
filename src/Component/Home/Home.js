@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import useReviewList from '../../hooks/useReviewList';
 import Dashboard from '../Dashboard/Dashboard';
+import Reviews from '../Reviews/Reviews';
 import './Home.css';
 
 const Home = () => {
@@ -40,6 +41,8 @@ const Home = () => {
                     )
 
                 }
+
+                <button type="button" className='btn btn-success mt-5 mb-5 px-5'><Link className='text-white text-decoration-none' to="/reviews">Show all review</Link></button>
 
 
             </div>
