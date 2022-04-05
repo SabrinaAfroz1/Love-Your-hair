@@ -3,8 +3,8 @@
 Project Name : Love Your Hair (Your Hair, Your Love)
 
 ## `Live Site Link`
-
-In the project directory, you can run:
+ 
+https://loveyourhair.netlify.app/
 
 ### `What is in This Project`
 ***
